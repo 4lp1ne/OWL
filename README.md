@@ -40,6 +40,7 @@ cd OWL
 
 chmod +x setup.sh
 ./setup.sh
+```
 
 Ce script :
 
@@ -59,7 +60,9 @@ Clone/Met à jour le repo Kaonashi.
 
 Mode GUI
 
+```bash
 python3 llmwl.py
+```
 
 Options principales
 
