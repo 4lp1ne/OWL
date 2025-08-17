@@ -1,5 +1,6 @@
 AI-powered Wordlist Generator with GUI, LLM support (local/API), and Kaonashi integration for smarter password lists.
 
+<img width="751" height="691" alt="Screenshot from 2025-08-17 21-18-53" src="https://github.com/user-attachments/assets/ac0f48e0-0425-4559-b8a6-642f6c6197cc" />
 
 ---
 
